@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is a dedicated Git repository for the purpose of interviews. For privacy reasons there is purposly no data here.
+
 <!--
 **dmg-interview/dmg-interview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
